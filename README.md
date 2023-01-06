@@ -17,7 +17,7 @@ Saya di beri tugas UAS ini  dengan struktur sebagai berikut:
 
 # Untuk penjelasan program berupa video youtube silahkan kunjungi link berikut :
 
-[ini juga video punya tu orang](https://youtu.be/51O5-O3pvug)
+https://youtu.be/cro0n8lwo3c
 
 # Berikut link repository github :
 
