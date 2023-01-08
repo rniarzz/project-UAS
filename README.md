@@ -13,7 +13,7 @@ Saya di beri tugas UAS ini  dengan struktur sebagai berikut:
 
 # Untuk penjelasan program berupa pdf silahkan kunjungi link berikut :
 
-[Ini file punya si siapa tadi lupa namanya](https://drive.google.com/file/d/1ZP2LMhRSkGNGIaZ_WPVh7TKS2EM3aVq2/view?usp=share_link)
+https://drive.google.com/file/d/1MOroyMbrewsXiz00gEWiNgBL7CbknPIo/view?usp=share_link
 
 # Untuk penjelasan program berupa video youtube silahkan kunjungi link berikut :
 
