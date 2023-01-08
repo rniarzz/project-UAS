@@ -21,6 +21,6 @@ https://youtu.be/cro0n8lwo3c
 
 # Berikut link repository github :
 
-https://github.com/rniarzz/UAS
+https://github.com/rniarzz/UAS.git
 
 # SEKIAN TERIMAKASIH
