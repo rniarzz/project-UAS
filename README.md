@@ -2,7 +2,7 @@ NAMA    : Rini Ariza
 
 KELAS   : TI.22.A3
 
-NIM     : 312210303
+NIM     : 312210337
 
 # Repository ini dibuat sebagai project UAS BAHASA PEMROGRAMAN SEMESTER 1
 
